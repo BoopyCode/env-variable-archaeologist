@@ -1,0 +1,2 @@
+# No dependencies! Just Python 3.6+
+# Because adding dependencies is like bringing a shovel to an archaeological dig
